@@ -1,1 +1,1 @@
-This is sample repository for React
+This is sample repository
